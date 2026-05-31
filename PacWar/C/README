@@ -1,0 +1,9 @@
+This folder contains code for running Pacwar. There are three subfolders.
+
+C: a simulator for you to manually design genes. Only for MacOS
+
+Python: example Pacwar interface designed to work on any operating system
+
+
+Please read README files in each subfolder before running executables or python scripts.
+
